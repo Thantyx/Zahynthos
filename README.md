@@ -1,4 +1,2 @@
-Zahynthos
-=========
-
-RSPS
+##Zahynthos - RSPS
+-----------------
